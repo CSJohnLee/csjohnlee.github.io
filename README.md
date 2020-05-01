@@ -1,4 +1,4 @@
-# C.S. John Lee's GitHub Portfolio
+# C.S. John Lee's Data Science Portfolio
 
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
