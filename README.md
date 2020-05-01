@@ -5,16 +5,18 @@ Below are a list of projects from my GitHub repositories that I'd like to share 
 ## Exploratory Data Analysis: 
 - [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  
   An Analysis of COVID-19 Dataset  
-  ![Image of Death over Time](https://gph.is/g/aeve7kk)  
+  ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)  
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
-  An Analysis of a Baseball Dataset with Pandas and Numpy
-  ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/Weather_Baseball.png?raw=true)
+  An Analysis of a Baseball Dataset with Pandas and Numpy  
+  ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/weather_baseball.png?raw=true)
 
 ## Statistics in R: 
 - [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)  
-   *Objective:* Address research questions on American National Election Studies (ANES) surveys about voters in United States. Determine what type of test is most appropriately utilized (parametric vs nonparametric, unpaired versus paired) 
+   *Objective:* Address research questions on American National Election Studies (ANES) surveys about voters in United States. Determine what type of test is most appropriately utilized (parametric vs nonparametric, unpaired versus paired)  
+   ![Image of Comparing Means](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/comparing_means.PNG?raw=true)  
 - [Reducing Crimes Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/reducing_crimes_lab)  
    *Objective:* Examine a dataset of crime statistics to help a political campaign understand the determinants of crime and to generate policy suggestions that are applicable to local government. Create multi-variate linear regression models and determine if the classical linear assumptions are satisifed.   
+   ![Image of Reducing Crimes](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/reducing_crime.PNG?raw=true)
 
 ## Google Cloud Platform (GCP) and Big Query
 - [Lyft Bay Wheels](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/lyft_bay_wheels_data_analysis)  
