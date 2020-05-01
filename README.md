@@ -1,6 +1,6 @@
 # C.S. John Lee's GitHub Portfolio
 
-Below are a list of projects from my GitHub repositories that I'd like to share with you.
+Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Exploratory Data Analysis: 
 - [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  
