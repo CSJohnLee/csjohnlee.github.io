@@ -4,10 +4,11 @@ Below are a list of projects from my GitHub repositories that I'd like to share 
 
 ## Exploratory Data Analysis: 
 - [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  
-  An Analysis of COVID-19 Dataset
-  ![Image of Death over Time](https://gph.is/g/aeve7kk)
+  An Analysis of COVID-19 Dataset  
+  ![Image of Death over Time](https://gph.is/g/aeve7kk)  
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
   An Analysis of a Baseball Dataset with Pandas and Numpy
+  ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/Weather_Baseball.png?raw=true)
 
 ## Statistics in R: 
 - [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)  
