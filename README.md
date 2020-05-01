@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# Welcome to C.S. John Lee's GitHub Portfolio
 
-You can use the [editor on GitHub](https://github.com/CSJohnLee/csjohnlee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Below are a list of projects from my GitHub repositories that I'd like to share with you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Python Programming:
+- [Migrate](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Migrate_An_OOP_Project): An Object-Oriented Programming Project
 
-### Markdown
+## Statistics Using R: 
+- [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)
+   *Objective:* Address 5 research questions on American National Election Studies (ANES) surveys of voters in United States 
+- [Reducing Crimes Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/reducing_crimes_lab)  
+   *Objective:* Examine a dataset of crime statistics to help a political campaign understand the determinants of crime and to generate policy suggestions that are applicable to local government.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Design Presentations:
+- [SHIND!G](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/SHIND!G.pptx)    
+   *Objective*: To develop a research design that could answer an important data science question.
+- [Celebrity Location Identification for Paparazzi](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/Celebrity_Location_Identification_for_Paparazzi.pptx)   
+   *Objective*: Apply research design concepts to identify a business problem and reseearch question, and to desecribe how data science can answer that question.
+- [How Your Personal Data Can Help Catch Violent Criminals](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/How_Your_Personal_Data_Can_Help_Catch_Violent_Criminals.pptx)
+   *Objective*: To explore a controversial debate in data science that will likely affect a domain of your choice. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Exploratory Data Analysis: 
+- **COVID-19**: An Analysis of COVID-19 Dataset
+- [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy): An Analysis of a Baseball Dataset with Pandas and Numpy
 
-- Bulleted
-- List
+## Google Cloud Platform (GCP) and Big Query
+- [Lyft Bay Wheels](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/lyft_bay_wheels_data_analysis): An Analysis with Google Cloud Platform (GCP) and Big Query.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CSJohnLee/csjohnlee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This GitHub page uses the Jekyll theme which pulls from my [repository settings](https://github.com/CSJohnLee/csjohnlee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
