@@ -1,9 +1,8 @@
-# C.S. John Lee's 
-# Data Science Portfolio
+## C.S. John Lee's Data Science Portfolio
 
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
-# Exploratory Data Analysis 
+## Exploratory Data Analysis 
 - [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  
   An Analysis of COVID-19 Dataset  
   ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)  
@@ -11,7 +10,7 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
   An Analysis of a Baseball Dataset with Pandas and Numpy  
   ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/weather_baseball.png?raw=true)
 
-# Statistics in R 
+## Statistics in R 
 - [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)  
    *Objective:* Address research questions on American National Election Studies (ANES) surveys about voters in United States. Determine what type of test is most appropriately utilized (parametric vs nonparametric, unpaired versus paired)  
    
@@ -22,15 +21,15 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
      
    ![Image of Reducing Crimes](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/reducing_crime.PNG?raw=true)
 
-# Google Cloud Platform (GCP) and Big Query
+## Google Cloud Platform (GCP) and Big Query
 - [Lyft Bay Wheels](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/lyft_bay_wheels_data_analysis)  
   An Analysis with Google Cloud Platform (GCP), Big Query, and SQL.
 
-# Programming
+## Programming
 - [Migrate](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Migrate_An_OOP_Project)  
   An Object-Oriented Programming Project in Python. Refer to [design document](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Migrate_An_OOP_Project/Design_Doc_CSJL_Final.pdf) on what this program does and how it works. 
 
-# Research Design Presentations
+## Research Design Presentations
 - [SHIND!G](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/SHIND!G.pptx)    
    *Objective*: To develop a research design that could answer an important data science question. Create a slidedeck to pitch to potential stakeholders or investors on this potential project.
 - [Celebrity Location Identification for Paparazzi](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/Celebrity_Location_Identification_for_Paparazzi.pptx)   
