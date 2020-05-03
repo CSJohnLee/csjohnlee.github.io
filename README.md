@@ -1,5 +1,6 @@
-## C.S. John Lee's Data Science Portfolio
+# My Data Science Portfolio
 
+Hello, I am C.S. John Lee.    
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Exploratory Data Analysis 
