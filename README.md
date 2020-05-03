@@ -27,7 +27,7 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
 
 ## Programming
 - [Migrate](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Migrate_An_OOP_Project)  
-  An Object-Oriented Programming Project in Python. Please refer to [design document](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Migrate_An_OOP_Project/Design_Doc_CSJL_Final.pdf) for description and instructions. 
+  An Object-Oriented Programming Project in Python. Please refer to [design document](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Migrate_An_OOP_Project/Design_Doc_CSJL_Final.pdf) for a description and instructions. 
 
 ## Research Design Presentations
 - [SHIND!G](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Research_Design_Presentations/SHIND!G.pptx)    
