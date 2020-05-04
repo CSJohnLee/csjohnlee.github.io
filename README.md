@@ -3,8 +3,8 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Exploratory Data Analysis 
-- [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  
-  An Analysis of COVID-19 Dataset  
+- COVID-19 [[Github]](https://github.com/CSJohnLee/COVID19_Project) [[SlideDeck]](https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing)    
+  An Analysis of COVID-19 Dataset. 
   ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)  
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
   An Analysis of a Baseball Dataset with Pandas and Numpy  
