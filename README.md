@@ -3,6 +3,8 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Machine Learning 
+- Predicting Flight Delays [[Github]](www.google.com) [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)    
+
 - Flight Prediction (at scale) [[Github]] (www.google.com)  [[SlideDeck]] (https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit#slide=id.p)  
 - House Price Prediction [[Github]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
   Utilized linear regression, decision trees with ensembling methods, and neural networks to predict housing price on a Kaggle dataset.  
