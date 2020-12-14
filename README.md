@@ -3,10 +3,16 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Machine Learning 
-- Predicting Flight Delays [[Github]](www.google.com) [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)    
+- Predicting Flight Delays [[Github]](www.google.com) [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)   
+Predicted flight delays in the Databricks platform. Utilized Spark, a large-scale data processing analytics engine, to process over 30 million rows of flights and 630 million rows of weather data. Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Tree algorithms from the MLlib Package were tuned by varying hyper-parameters, creating new features, and reducing diemensions with Principal Component Analysis. 
+![Image of Feature Creation](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/PriorFlight.PNG)
+
+
 - House Price Prediction [[Github]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
   Utilized linear regression, decision trees with ensembling methods, and neural networks to predict housing price on a Kaggle dataset.  
   ![Image of House Price](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/house_price_predict.PNG)  
+
+
 - [Digit Classification](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/digit_classification)  
   Utilized k-Nearest Neighbors and Naive Bayes models on the MNIST digits dataset to classify digits. Also generated images with Naive Bayes!  
   ![Image of Generated Digits](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/generated_images.png)  
