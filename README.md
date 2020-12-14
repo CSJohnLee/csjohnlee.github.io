@@ -3,6 +3,7 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Machine Learning 
+- Flight Prediction (at scale) [[Github]] (www.google.com)  [[SlideDeck]] (https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit#slide=id.p)  
 - House Price Prediction [[Github]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
   Utilized linear regression, decision trees with ensembling methods, and neural networks to predict housing price on a Kaggle dataset.  
   ![Image of House Price](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/house_price_predict.PNG)  
@@ -12,8 +13,8 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
   
 ## Exploratory Data Analysis 
 - COVID-19 [[Github]](https://github.com/CSJohnLee/COVID19_Project) [[SlideDeck]](https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing)    
-  An Analysis of COVID-19 Dataset. 
-  ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)  
+  An Analysis of COVID-19 Dataset.  
+  ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)   
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
   An Analysis of a Baseball Dataset with Pandas and Numpy  
   ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/weather_baseball.png?raw=true)
