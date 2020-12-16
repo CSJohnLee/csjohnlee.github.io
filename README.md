@@ -3,12 +3,12 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Machine Learning 
-- Predicting Flight Delays (at Scale) [[Github]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/flight_delays_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)   
+- [[Predicting Flight Delays (at Scale)]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/flight_delays_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)   
 Predicted flight delays in the Databricks platform. Utilized Spark, a large-scale data processing analytics engine, to process over 30 million rows data. Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Tree algorithms from the MLlib Package were tuned by varying hyper-parameters, creating new features, and reducing diemensions with Principal Component Analysis. 
 ![Image of Feature Creation](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/PriorFlight.PNG)
 
 
-- House Price Prediction [[Github]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
+- [[House Price Prediction]](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction) [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
   Utilized linear regression, decision trees with ensembling methods, and neural networks to predict housing price on a Kaggle dataset.  
   ![Image of House Price](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/house_price_predict.PNG)  
 
@@ -18,7 +18,7 @@ Predicted flight delays in the Databricks platform. Utilized Spark, a large-scal
   ![Image of Generated Digits](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/generated_images.png)  
   
 ## Exploratory Data Analysis 
-- COVID-19 [[Github]](https://github.com/CSJohnLee/COVID19_Project) [[SlideDeck]](https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing)    
+- [[COVID-19]](https://github.com/CSJohnLee/COVID19_Project) [[SlideDeck]](https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing)    
   An Analysis of COVID-19 Dataset.  
   ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)   
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
