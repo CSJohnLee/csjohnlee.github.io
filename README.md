@@ -20,7 +20,6 @@ Predicted flight delays on the Databricks platform. Utilized Spark to process ov
 ## Exploratory Data Analysis 
 - [COVID-19](https://github.com/CSJohnLee/COVID19_Project)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1z9M6WjM0kyZV0tBjC2mafpYZLWmoRZ9VFko0kUA46zE/edit?usp=sharing)    
   An Analysis of COVID-19 Dataset.  
-  ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/covid19.png?raw=true)   
   ![Image of COVID19](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/CaseOverTime.gif?raw=true)   
 
 - [Weather & Baseball](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/Weather_Baseball_Data_Analysis_with_Pandas_and_Numpy)  
