@@ -5,7 +5,6 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
 ## Machine Learning 
 - [Predicting Flight Delays (at Scale)](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/flight_delays_prediction)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)   
 Predicted flight delays on the Databricks platform. Utilized Spark to process over 30 million rows data. Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Trees algorithms from the MLlib Package were tuned by varying hyper-parameters, creating new features, and reducing dimensions with Principal Component Analysis. 
-![Image of Feature Creation](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/PriorFlight.PNG)
 
 
 - [House Price Prediction](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/house_price_prediction)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1B8kliL58PaSFKafOiJD0OPBr-FkByLgqiz3M6acir3o/edit?usp=sharing)    
