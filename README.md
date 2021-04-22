@@ -4,7 +4,7 @@ Below is a list of projects from my GitHub repositories that I'd like to share w
 
 ## Machine Learning 
 - [Question-Answering Task with Natural Language Processing Models](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/stackoverflow_reqa)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1hi7xf_9UxuG7_e1n8TSSkoI3qRV78HULg08lMpaYP9s/edit?usp=sharing)   
-Applied natural language processing techniques on Retrieval Question-Answering task (ReQA). Utilized different embeddings, ordering techniques, and architectures to determine the most ideal method by evaluating on the mean reciprocal rank (MRR) score. Specifically, embedded data with Universal Sentence Encoder (USE), Bidirectional Encoder Representations from Transformers (BERT), and Word2Vec. The final model achieved a 26% increase in performance compared to the popular TFIDF BM-25 model.
+Retrieved answers to Stack Overflow questions by utilizing different language embeddings, data ordering techniques, and deep learning architectures to determine the most ideal method by evaluating on the mean reciprocal rank (MRR) score. Specifically, embedded data with Universal Sentence Encoder (USE), Bidirectional Encoder Representations from Transformers (BERT), and Word2Vec. Final model achieved a 26% increase in performance compared to the popular TFIDF BM-25 model.
   ![Image of W266 Paper](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/stackreqa.png)  
 
 
