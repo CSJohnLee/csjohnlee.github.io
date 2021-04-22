@@ -3,6 +3,10 @@
 Below is a list of projects from my GitHub repositories that I'd like to share with you.
 
 ## Machine Learning 
+- [Question-Answering Task with Natural Language Processing Models](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/stackoverflow_reqa)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1hi7xf_9UxuG7_e1n8TSSkoI3qRV78HULg08lMpaYP9s/edit?usp=sharing)   
+Applied natural language processing techniques on Retrieval Question-Answering task (ReQA). We used different embeddings, ordering techniques, and architectures to determine the most ideal method by evaluating on the mean reciprocal ranking score. Specifically, we embed the data with Universal Sentence Encoder (USE), Bidirectional Encoder Representations from Transformers (BERT), and Word2Vec. Our final model had a 26% improvement compared to the popular TFIDF BM-25 model.
+
+
 - [Predicting Flight Delays (at Scale)](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/flight_delays_prediction)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1VkYIzGgzorXwzKhASuqDeq1tBfVdYDn3LabyfhQdw64/edit?usp=sharing)   
 Predicted flight delays on the Databricks platform. Utilized Spark to process over 30 million rows (20+ GB) of data. Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Trees algorithms from the MLlib Package were tuned by varying hyper-parameters, creating new features, and reducing dimensions with Principal Component Analysis. 
 
