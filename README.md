@@ -2,7 +2,7 @@
 
 Hello, I am John.  
 I love working with data and learning methods to work with data.  
-Below are projects from my GitHub repositories that I'd like to share with you.
+Below are projects showing that I learned to work with data. More to come!
 
 ## Machine Learning 
 - [Question-Answering Task with Natural Language Processing Models](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/stackoverflow_reqa)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1hi7xf_9UxuG7_e1n8TSSkoI3qRV78HULg08lMpaYP9s/edit?usp=sharing)   | [[Notebooks]](https://github.com/sanjayms01/StackReQA)
