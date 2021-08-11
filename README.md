@@ -5,7 +5,7 @@ I love working with data and learning methods to work with data.
 Below are projects showing that I learned to work with data. More to come!
 
 Bam.
-  ![Image of House Price](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/house_price_predict.PNG)  
+  ![X](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/Intro.JPG)
 
 
 ## Machine Learning 
