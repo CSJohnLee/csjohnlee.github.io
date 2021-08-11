@@ -1,11 +1,6 @@
 # C.S. John Lee's Data Science Portfolio
 
-Hello, I am John.  
-I love working with data and learning methods to work with data.  
-Below are projects showing that I learned to work with data. More to come!
-
-Bam.
-  ![X](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/Intro.JPG)
+![X](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/Intro.JPG)
 
 
 ## Machine Learning 
