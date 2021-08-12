@@ -32,7 +32,10 @@ Predicted flight delays on the Databricks platform. Utilized Spark to process ov
   ![Image of sfn's game frequency](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/weather_baseball.png?raw=true)
 
 ## Statistics in R 
-- [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)  
+- [Facebook Marketplace Experiment](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/fb-marketplace-exp)  
+  Conducted a between-subjects randomized block design experiment to measure the potential treatment effect of image quality on bidding price. Utilized Qualtrics XM's API for a pre-experimental survey (for power analysis) and Facebook Marketplace for the actual experiment. Produced linear and log-linear multi-variate regression models that showed statistical signifiance on the treatment variable, suggesting that a higher quality image leads to a greater maximum bid price.
+   
+ - [Comparing Means Lab](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/comparing_means_lab)  
    *Objective:* Address research questions on American National Election Studies (ANES) surveys about voters in United States. Determine what type of test is most appropriately utilized (parametric vs nonparametric, unpaired versus paired)  
    
    ![Image of Comparing Means](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/comparing_means.PNG?raw=true)  
