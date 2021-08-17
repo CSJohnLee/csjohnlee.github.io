@@ -1,7 +1,8 @@
 # C.S. John Lee's Data Science Portfolio
 
-![X](https://raw.githubusercontent.com/CSJohnLee/projects_ucb_mids/master/Images/Intro.JPG)
-
+Hello, I am John.
+I love to working with data and learning to work with data.
+Below are projects that I'd like to share with you.
 
 ## Machine Learning 
 - [Question-Answering Task with Natural Language Processing Models](https://github.com/CSJohnLee/projects_ucb_mids/tree/master/stackoverflow_reqa)  |   [[SlideDeck]](https://docs.google.com/presentation/d/1hi7xf_9UxuG7_e1n8TSSkoI3qRV78HULg08lMpaYP9s/edit?usp=sharing)   | [[Notebooks]](https://github.com/sanjayms01/StackReQA)
