@@ -6,7 +6,7 @@ Below are projects that I'd like to share with you. More to come!
 
 ## Machine Learning 
 - [Methane Anomaly Detector](https://github.com/sanjayms01/methane)  |   [[SlideDeck]](https://docs.google.com/presentation/d/11YTivxMuYAa7_YLMh8lfQjb4NlsIZNBQ4tynZrQVwfc/edit)   | [[Product Demo]](https://www.ischool.berkeley.edu/projects/2021/methane-anomaly-detector)
-Detected atmospheric methane concentration anomalies by using an Long Short-Term Memory (LSTM) Autoencoder. This includes building the data pipeline to retrieve data from European Space Agency's Sentinel 5P real-time satellite measurements, ERA5 weather data, and California Climate Zones, feature engineering, and hyperparameter tuning. Our group also built a public website, www.methaneanomalydetector.com, to showcase the anomaly detection as well as visualizations about the data. Please refer to product demo shown on the bottom right of the website linked above.   
+Detected atmospheric methane concentration anomalies by using a Long Short-Term Memory (LSTM) Autoencoder. This includes building the data pipeline to retrieve data from European Space Agency's Sentinel 5P real-time satellite measurements, ERA5 weather data, and California Climate Zones, feature engineering, and hyperparameter tuning. Our group also built a public website, www.methaneanomalydetector.com, to showcase the anomaly detection as well as visualizations about the data. Please refer to product demo shown on the bottom right of the website linked above.   
   ![Image of MAD](https://github.com/CSJohnLee/projects_ucb_mids/blob/master/Images/mad.PNG?raw=true)  
   
 
